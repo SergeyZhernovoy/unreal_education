@@ -72,3 +72,29 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Content/StarterContent/Architecture/
+
+Content/StarterContent/Audio/
+
+Content/StarterContent/Blueprints/Assets/
+
+Content/StarterContent/Blueprints/
+
+Content/StarterContent/Materials/
+
+Content/StarterContent/Particles/Materials/
+
+Content/StarterContent/HDRI/
+
+Content/StarterContent/Maps/
+
+Content/StarterContent/Particles/
+
+Content/StarterContent/Props/Materials/
+
+Content/StarterContent/Textures/
+
+Content/StarterContent/Shapes/
+
+Content/StarterContent/Props/
